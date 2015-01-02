@@ -1,0 +1,208 @@
+Country,iso2c,I2 Rank
+New Zealand ,NZ,1
+Luxembourg ,LU,2
+Ireland ,IE,3
+Iceland ,IS,4
+Finland ,FI,5
+Denmark ,DK,6
+Canada ,CA,7
+U.K. ,GB,8
+Australia ,AU,9
+Netherlands ,NL,9
+Austria ,AT,11
+Norway ,NO,12
+Switzerland ,CH,13
+Belgium ,BE,14
+Sweden ,SE,15
+Portugal ,PT,16
+Germany ,DE,17
+Bahamas ,BS,18
+France ,FR,18
+Czech Rep ,CZ,20
+Estonia ,EE,21
+Costa Rica ,CR,22
+Spain ,ES,23
+Barbados ,BB,24
+U. S. ,US,25
+Slovenia ,SI,26
+Hong Kong,HK,27
+Latvia ,LV,28
+Japan ,JP,29
+Malta ,MT,30
+Hungary ,HU,31
+Slovak Republic ,SK,31
+Italy ,IT,33
+Chile ,CL,34
+Lithuania ,LT,35
+Cyprus ,CY,36
+Singapore ,SG,37
+Malaysia ,MY,38
+Panama ,PA,39
+Trinidad and Tobago ,TT,40
+Poland ,PL,41
+Mauritius ,MU,42
+Croatia ,HR,43
+St. Vincent and the Gren ,VC,44
+Namibia ,NA,45
+Greece ,GR,46
+Jamaica ,JM,47
+Kuwait ,KW,48
+Uruguay ,UY,48
+South Africa ,ZA,50
+Botswana ,BW,51
+St. Lucia ,LC,52
+Ghana ,GH,53
+Argentina ,AR,54
+Brazil ,BR,55
+Mexico ,MX,55
+Bulgaria ,BG,57
+El Salvador ,SV,58
+Philippines ,PH,59
+Dominica ,DM,60
+Israel ,IL,61
+Monaco ,MC,62
+Lesotho ,LS,63
+Bahrain ,BH,64
+Brunei ,BN,65
+Romania ,RO,66
+United Arab Emirates ,AE,66
+Belize ,BZ,68
+Andorra ,AD,69
+Cayman Islands ,KY,70
+Seychelles ,SC,71
+Fiji ,FJ,72
+Uganda ,UG,73
+Tanzania ,TZ,74
+Antigua and Barbuda ,AG,75
+Gabon ,GA,75
+Jordan ,JO,77
+Thailand ,TH,78
+Grenada ,GD,79
+San Marino ,SM,79
+China ,CN,81
+Nicaragua ,NI,81
+Cape Verde ,CV,83
+Macao,MO,83
+Tunisia ,TN,83
+Colombia ,CO,86
+Dominican Republic ,DO,87
+Peru ,PE,88
+India ,IN,89
+Aruba ,AW,90
+Russian Federation ,RU,91
+Honduras ,HN,92
+Greenland ,GL,93
+Guyana ,GY,94
+Netherlands Antilles ,AN,95
+Mozambique ,MZ,96
+Mongolia ,MN,97
+Macedonia FYR ,MK,98
+Oman ,OM,99
+Suriname ,SR,100
+Bosnia and Herzegovina ,BA,101
+Ukraine ,UA,102
+Turkey ,TR,103
+Maldives ,MV,104
+Liechtenstein ,LI,105
+Korea Rep. ,KR,106
+Kazakhstan ,KZ,107
+Timor?Leste ,TL,107
+Senegal ,SN,109
+Albania ,AL,110
+Moldova ,MD,110
+Qatar ,QA,112
+Puerto Rico ,PR,113
+Armenia ,AM,114
+Kiribati ,KI,115
+Sri Lanka ,LK,116
+Georgia ,GE,117
+St. Kitts and Nevis ,KN,117
+Morocco ,MA,119
+Northern Mariana Islands ,MP,119
+Papua New Guinea ,PG,119
+Zambia ,ZM,119
+Bolivia ,BO,123
+Gambia The ,GM,124
+Azerbaijan ,AZ,125
+Ecuador ,EC,125
+Guatemala ,GT,127
+Belarus ,BY,128
+Malawi ,MW,129
+Mali ,ML,130
+Saudi Arabia ,SA,131
+Burkina Faso ,BF,132
+Vanuatu ,VU,133
+Vietnam ,VN,134
+Rwanda ,RW,135
+Paraguay ,PY,136
+Kyrgyz Republic ,KG,137
+Korea Dem. Rep. ,KR,138
+Virgin Islands (U.S.) ,VI,139
+Indonesia ,ID,140
+Venezuela RB ,VE,141
+Madagascar ,MG,142
+Palau ,PW,143
+Kenya ,KE,144
+Guinea ,GN,145
+Samoa ,WS,146
+Benin ,BJ,147
+Pakistan ,PK,147
+Cuba ,CU,149
+New Caledonia ,NC,150
+Nepal ,NP,151
+Bangladesh ,BD,152
+Egypt Arab Rep. ,EG,153
+Cambodia ,KH,154
+Tonga ,TO,155
+Burundi ,BI,156
+Swaziland ,SZ,156
+Lebanon ,LB,158
+Zimbabwe ,ZW,159
+Algeria ,DZ,160
+Micronesia Fed. Sts. ,FM,161
+Cameroon ,CM,162
+Iran Islamic Rep. ,IR,163
+Myanmar ,MM,164
+Central African Republic ,CF,165
+Bermuda ,BM,166
+Bhutan ,BT,167
+Sierra Leone ,SL,168
+Afghanistan ,AF,169
+Guam ,GU,170
+Congo Dem. Rep. ,CD,171
+Togo ,TG,172
+Turkmenistan ,TM,173
+Nigeria ,NG,174
+Uzbekistan ,UZ,174
+Haiti ,HT,176
+Tajikistan ,TJ,176
+American Samoa ,AS,178
+Cote dIvoire ,CI,179
+Ethiopia ,ET,180
+French Polynesia ,PF,181
+Congo Rep. ,CG,182
+Equatorial Guinea ,GQ,183
+Lao PDR ,LA,183
+Serbia and Montenegro ,RS,185
+Syrian Arab Republic ,SY,186
+Marshall Islands ,MH,187
+Faeroe Islands ,FO,188
+Niger ,NE,189
+Guinea-Bissau ,GW,190
+Solomon Islands ,SB,190
+Sao Tome and Principe ,ST,192
+Djibouti ,DJ,193
+Liberia ,LR,194
+Mauritania ,MR,195
+Libya ,LY,196
+Chad ,TD,197
+Yemen Rep. ,YE,198
+Angola ,AO,199
+Comoros ,KM,200
+Iraq ,IQ,201
+Sudan ,SD,202
+Eritrea ,ER,204
+Isle of Man ,IM,205
+Somalia ,SO,206
+West Bank and Gaza ,PS,207
+Mayotte ,YT,208
